@@ -1,0 +1,35 @@
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\TestAssemblyInfoGetter.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\TestAssemblyInfoGetter.pdb
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.pdb
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.csprojAssemblyReference.cache
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.csproj.CopyComplete
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.dll
+E:\5 сем\СПП\лаба 3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.pdb
+P:\SPP\task3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.csproj.AssemblyReference.cache
+P:\SPP\task3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.csproj.CoreCompileInputs.cache
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\TestAssemblyInfoGetter.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\TestAssemblyInfoGetter.pdb
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.pdb
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\SPP\task3\TestAssemblyInfoGetter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\SPP\task3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.csproj.CopyComplete
+P:\SPP\task3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.dll
+P:\SPP\task3\TestAssemblyInfoGetter\obj\Debug\TestAssemblyInfoGetter.pdb

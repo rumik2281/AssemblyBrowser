@@ -1,0 +1,12 @@
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.dll
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\AssemblyInfoGetter.pdb
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\DTO.dll
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\ExtendsStudent.dll
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\University.dll
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\DTO.pdb
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\ExtendsStudent.pdb
+P:\SPP\task3\AssemblyInfoGetter\bin\Debug\University.pdb
+P:\SPP\task3\AssemblyInfoGetter\obj\Debug\AssemblyInfoGetter.csproj.CoreCompileInputs.cache
+P:\SPP\task3\AssemblyInfoGetter\obj\Debug\AssemblyInfoGetter.dll
+P:\SPP\task3\AssemblyInfoGetter\obj\Debug\AssemblyInfoGetter.pdb
+P:\SPP\task3\AssemblyInfoGetter\obj\Debug\AssemblyInfoGetter.csproj.AssemblyReference.cache
